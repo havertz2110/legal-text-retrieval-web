@@ -40,6 +40,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 Note: 
 - In the zip file, I have added these 4 files below(they are larger than 100mb so I can not directly push them up here), extract them and move them into their specific place after you clone this:
 1. data/legal_dict.json
-2. embedding/embed_embedding.npy
-3. finetune_embedding.npy
-4. model/round2/model.safetensors
+2. embedding/embed_embedding.npy & finetune_embedding.npy: [Link](https://uithcm-my.sharepoint.com/:u:/g/personal/22520039_ms_uit_edu_vn/EbPDsQuT8QdMvK1OnYamAZoB3Xk8do-22dlHr8c5xYoMUQ?e=RNcMx8)
+4. model/round2/model.safetensors: [Link](https://uithcm-my.sharepoint.com/:u:/g/personal/22520039_ms_uit_edu_vn/ERvkAXSZFoJMqGlmJdqC44cBSdJxCabE6_MQRO0IeztLWQ?e=J5PyJF)
