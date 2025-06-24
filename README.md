@@ -37,8 +37,8 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Note: 
+- In the zip file, I have added these 4 files below(they are larger than 100mb so I can not directly push them up here), extract them and move them into their specific place after you clone this:
+1. data/legal_dict.json
+2. embedding/embed_embedding.npy & finetune_embedding.npy: [Link](https://uithcm-my.sharepoint.com/:u:/g/personal/22520039_ms_uit_edu_vn/EbPDsQuT8QdMvK1OnYamAZoB3Xk8do-22dlHr8c5xYoMUQ?e=RNcMx8)
+4. model/round2/model.safetensors: [Link](https://uithcm-my.sharepoint.com/:u:/g/personal/22520039_ms_uit_edu_vn/ERvkAXSZFoJMqGlmJdqC44cBSdJxCabE6_MQRO0IeztLWQ?e=J5PyJF)
