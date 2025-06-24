@@ -22,3 +22,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /backend/test.ipynb
+embedding.rar
+embedding/embed_embedding.npy
+embedding/finetune_embedding.npy
+model/round2/model.safetensors
